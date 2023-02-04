@@ -3,6 +3,8 @@
 - Test device:
   - Xeon(R) Gold 6326, 512GB RAM, A30
   - Container: Pytorch 22.11 (tensorRT: 8.5.1.7)
+  - NVIDIA Driver Version: 510.
+  - CUDA Version: 11.6
 
 
 - Source:
